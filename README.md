@@ -1,0 +1,2 @@
+# discordthemes
+Themes for dsicord 
